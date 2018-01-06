@@ -3,12 +3,12 @@ Artificial Intelligent
 ****SPACE SHOOTER****
 Operating system: Windows PC
 USAGE:
-- Keep the spaceshoot_Data and spaceshooter.exe in a same location
-- Double click on spaceshooter.exe to start the game
-- Choose Screen , Graphic quality and monitor
-- Click on Play!
++ Keep the spaceshoot_Data and spaceshooter.exe in a same location
++ Double click on spaceshooter.exe to start the game
++ Choose Screen , Graphic quality and monitor
++ Click on Play!
 Options:
-- Start: to play the game immediately using 3 default-saving symbols
++ Start: to play the game immediately using 3 default-saving symbols
 + triangle: destroy all enemies
 + circle: activate blue shield
 + V-shape: perform spreadshot
@@ -18,7 +18,7 @@ While playing the game, AI player spaceship will move on its own. If it is in a 
 Keep in mind that default resolution screen is 1680 x 1050. If symbols are drawn, nothing is happening. Probably you need to train the AI again to learn
 your drawing. This happens because creators' drawing, say a circle, will be lightly different from your drawing circle.
 
-- Training: start train AI to learn your drawing/symbols
++ Training: start train AI to learn your drawing/symbols
 The drawing should be done in the correct order that is ABC-ABC-ABC-...-ABC. It takes AI 30 times of drawing to learn. So, each symbol is taking 10 times.
 A: first symbol
 B: second symbol
